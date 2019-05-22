@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:5/22/2019 6:24:08 PM)
+# LaTeX 使用技巧 (Last update:5/22/2019 6:30:16 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -71,7 +71,7 @@
 
 基本方法如下：
     
-1. 首先利用谷歌学术制作.bib文件：在谷歌学术中搜索引文，然后点击应用中的bibtex，将内容复制到文本文档中，然后修改文件类型为.bib；（可以使用**JafRef**软件来生成和管理bib文件，简洁方便！）
+1. 首先利用谷歌学术制作.bib文件：在谷歌学术中搜索引文，然后点击应用中的bibtex，将内容复制到文本文档中，然后修改文件类型为.bib；（可以使用**JafRef**软件来生成和管理bib文件，简洁方便！JafRef的中文使用教程 https://blog.csdn.net/zd0303/article/details/7676807）
 2. 然后在.tex文件中（\begin{document}之后）加入以下内容：  
 
 
@@ -90,6 +90,10 @@
 
 **【实用】使用BibTex格式时缩小参考文献的字体**    
 🚪 https://cloud.tencent.com/developer/article/1012569
+
+
+**【多篇参考文献的合并】latex中同一处引用多篇文献**    
+🚪 https://blog.csdn.net/lqhbupt/article/details/49925911
 
 
 
