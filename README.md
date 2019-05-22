@@ -69,6 +69,20 @@
 **Latex小白入门（2）——如何用.bib文件自动生成论文Reference**     
 🚪 https://blog.csdn.net/tmylzq187/article/details/51355261
 
+基本方法如下：
+    
+1. 首先利用谷歌学术制作.bib文件：在谷歌学术中搜索引文，然后点击应用中的bibtex，将内容复制到文本文档中，然后修改文件类型为.bib；
+2. 然后在.tex文件中（\begin{document}之后）加入以下内容：  
+
+
+    \bibliographystyle{IEEEtran}       %IEEEtran为给定模板格式定义文件名    
+    \bibliography{ref}                 %ref为.bib文件名
+
+
+3. 在.tex文件相应位置插入索引\cite{标签}，其中标签为bib文件中每个参考文献的第一项内容；
+4. 编译生成Reference，顺序为：PDFLaTex ——>BibTex——>PDFLaTex——>PDFLaTex，正常情况下就会在PDF文件末尾显示出带有编号的参考文献了。
+
+
 
 **LaTex如何自动生成参考文献**    
 🚪 https://blog.csdn.net/qq_33033367/article/details/81461029
