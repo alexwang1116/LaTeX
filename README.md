@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:5/21/2019 4:55:28 PM)
+# LaTeX 使用技巧 (Last update:5/22/2019 5:13:23 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -60,6 +60,28 @@
 **LaTeX各种表格**    
 🚪 https://blog.csdn.net/golden1314521/article/details/40891515    
 
+
+
+
+
+### LaTeX参考文献
+
+**Latex小白入门（2）——如何用.bib文件自动生成论文Reference**     
+🚪 https://blog.csdn.net/tmylzq187/article/details/51355261
+
+
+**LaTex如何自动生成参考文献**    
+🚪 https://blog.csdn.net/qq_33033367/article/details/81461029
+
+
+
+### Latex注释快捷键
+
+1. 注释    
+"Ctrl" + "T"
+ 
+2. 去除注释    
+“Ctrl” + "U"
 
 
 
