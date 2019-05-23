@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:5/22/2019 9:15:40 PM)
+# LaTeX 使用技巧 (Last update:5/23/2019 11:33:52 AM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -102,8 +102,25 @@
     \usepackage[numbers,sort&compress]{natbib}
 
 
+**【实用】LaTeX在参考文献中引用网页**    
+🚪 https://blog.xulihang.me/cite-webpage-in-latex/
 
-### Latex注释快捷键
+需要用到这个包\usepackage{url}，bib文件中写入的示例如下：
+
+    @misc{ETSI17MEC,
+    author = {ETSI},
+    url = {https://www.etsi.org/technologies/multi-access-edge-computing},
+    urldate = {September, 2017},
+    title = {Multi-access Edge Computing (MEC)},
+    year = {2017}
+    }
+
+最终生成的参考文献如下：
+
+    ETSI, “Multi-access edge computing (mec),” 2017. [Online]. Available:    
+    https://www.etsi.org/technologies/multi-access-edge-computing
+
+### Latex多行注释快捷键
 
 1. 注释    
 "Ctrl" + "T"
