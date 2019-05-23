@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:5/22/2019 9:14:12 PM)
+# LaTeX 使用技巧 (Last update:5/22/2019 9:15:40 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -75,8 +75,8 @@
 2. 然后在.tex文件中（\begin{document}之后）加入以下内容：  
 
 
-    \bibliographystyle{IEEEtran}       %IEEEtran为给定模板格式定义文件名    
-    \bibliography{ref}                 %ref为.bib文件名
+        \bibliographystyle{IEEEtran}   %IEEEtran为给定模板格式定义文件名
+        \bibliography{ref}             %ref为.bib文件名
 
 
 3. 在.tex文件相应位置插入索引\cite{标签}，其中*标签*为bib文件中每个参考文献的第一项内容；
