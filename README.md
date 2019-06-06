@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:6/5/2019 8:01:18 PM)
+# LaTeX 使用技巧 (Last update:6/5/2019 8:25:12 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -135,10 +135,18 @@
 
 
 
+----------
+
 
 ### 使用VSCode编写LaTeX
 
 🚪 https://zhuanlan.zhihu.com/p/38178015
 
+### 编写中文Latex(VSCode+TexLive)
 
+🚪 https://zhuanlan.zhihu.com/p/43133114 
+
+### Win10下 VS code+LaTeX 环境的构建
+
+🚪 https://zhuanlan.zhihu.com/p/36285613
 
