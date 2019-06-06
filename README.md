@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:5/23/2019 11:33:52 AM)
+# LaTeX 使用技巧 (Last update:6/5/2019 8:01:18 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -128,6 +128,17 @@
 2. 去除注释    
 “Ctrl” + "U"
 
+
+
+
+
+
+
+
+
+### 使用VSCode编写LaTeX
+
+🚪 https://zhuanlan.zhihu.com/p/38178015
 
 
 
