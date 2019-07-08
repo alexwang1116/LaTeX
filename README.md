@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:7/8/2019 11:56:41 AM)
+# LaTeX 使用技巧 (Last update:7/8/2019 12:18:40 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -84,6 +84,16 @@
 🚪 https://blog.csdn.net/robert_chen1988/article/details/76209634
 
 
+**LaTeX 符号命令大全** ❤️    
+🚪 https://www.cnblogs.com/Coolxxx/p/5982439.html
+
+ 
+使用方法如下所示：
+
+    $\left(  \right)$ %小括号
+    $\left[ \right]$ %中括号
+    $\left\{   \right\}$ %大括号
+    $\left\{   \right\}$ 
 
 
 
