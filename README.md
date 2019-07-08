@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:6/5/2019 8:25:12 PM)
+# LaTeX 使用技巧 (Last update:7/8/2019 11:56:41 AM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -37,6 +37,9 @@
     \end{figure}
 
 
+----------
+
+
 ### LaTeX表格
 
 **【实用】Latex基本表格绘制**   
@@ -61,8 +64,28 @@
 🚪 https://blog.csdn.net/golden1314521/article/details/40891515    
 
 
+----------
 
 
+
+### LaTeX公式    
+
+**怎样用LaTeX优雅地打印数学的一切**  
+🚪 https://www.jianshu.com/p/f5d475d6904e
+
+**LaTeX大括号公式和一般括号总结**    
+🚪 https://blog.csdn.net/miao0967020148/article/details/78712811
+
+**LaTeX集合相关符号：实数集，整数集，并，包含，真包含**    
+🚪 https://blog.csdn.net/robert_chen1988/article/details/76209634
+
+
+
+
+
+
+
+----------
 
 ### LaTeX参考文献
 
@@ -119,6 +142,11 @@
 
     ETSI, “Multi-access edge computing (mec),” 2017. [Online]. Available:    
     https://www.etsi.org/technologies/multi-access-edge-computing
+
+
+
+----------
+
 
 ### Latex多行注释快捷键
 
