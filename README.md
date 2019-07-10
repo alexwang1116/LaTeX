@@ -67,7 +67,7 @@
 **LaTeX各种表格**    
 🚪 https://blog.csdn.net/golden1314521/article/details/40891515  
 
-**LaTeX改变单元格的对齐方式（跨单元格对齐）**    
+**LaTeX改变单元格的对齐方式（某一行跨单元格对齐）** ❤️   
 🚪 http://tigersoldier.is-programmer.com/posts/2304.html
   
 
