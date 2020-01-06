@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:7/29/2019 12:50:42 PM)
+# LaTeX 使用技巧 (Last update:1/6/2020 3:20:07 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -71,6 +71,14 @@
 🚪 http://tigersoldier.is-programmer.com/posts/2304.html
   
 
+**Latex减少图片、表格与文字之间的空白间隙**    
+🚪 https://blog.csdn.net/u011089523/article/details/83270994 
+
+论文中图与文字之间的空白间隙过大，导致排版不大美观。解决方法是在\begin{document}前定义\textfloatsep的长度，例如定义为5pt：
+
+    \setlength{\textfloatsep}{5pt}
+
+
 
 ----------
 
@@ -125,7 +133,6 @@
 
 **Latex写算法的伪代码排版**    
 🚪 https://blog.csdn.net/lwb102063/article/details/53046265
-
 
 
 
