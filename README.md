@@ -139,7 +139,7 @@
 🚪 http://hustsxh.is-programmer.com/posts/38801.html   
 
 
-LaTeX伪代码编辑模板     
+**LaTeX伪代码编辑模板**     
 🚪 https://www.omegaxyz.com/2018/10/07/latex_-pseudocode/ 
 
 
