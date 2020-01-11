@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:1/6/2020 3:20:07 PM)
+# LaTeX 使用技巧 (Last update:1/11/2020 5:58:52 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -133,6 +133,19 @@
 
 **Latex写算法的伪代码排版**    
 🚪 https://blog.csdn.net/lwb102063/article/details/53046265
+
+
+**LaTeX/Algorithms 伪代码**    
+🚪 http://hustsxh.is-programmer.com/posts/38801.html   
+
+
+LaTeX伪代码编辑模板     
+🚪 https://www.omegaxyz.com/2018/10/07/latex_-pseudocode/ 
+
+
+
+
+
 
 
 
