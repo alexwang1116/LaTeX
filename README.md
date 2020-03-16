@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:3/16/2020 10:26:06 PM)
+# LaTeX 使用技巧 (Last update:3/16/2020 11:06:52 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -216,15 +216,13 @@
 **Latex的biography中作者照片的插入**    
 🚪 https://blog.csdn.net/lj695242104/article/details/47946919    
 
-以IEEE Trans模板为例，假设作者的名字是ZhangSan，首先应该在这个tex文件所在的文件夹里放上这个作者的照片，假设照片的文件名为zhangsan.eps
+以IEEE Trans模板为例，假设作者的名字是ZhangSan，首先应该在这个tex文件所在的文件夹里放上这个作者的照片，假设照片的文件名为zhangsan.eps，那么tex文件里格式如下：
 
-tex文件里格式如下：
-
-\begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{zhangsan.eps}}]{Zhang San}
-
-Biography of Zhangsan should be here.
-
-\end{IEEEbiography}
+    \begin{IEEEbiography}[{\includegraphics[width=1in,height=1.25in,clip,keepaspectratio]{zhangsan.eps}}]{Zhang San}
+    
+    Biography of Zhangsan should be here.
+    
+    \end{IEEEbiography}
 
 
 ----------
