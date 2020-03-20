@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:3/17/2020 10:13:08 PM)
+# LaTeX 使用技巧 (Last update:3/20/2020 12:38:09 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -240,6 +240,18 @@
 
 
 
+
+
+
+----------
+
+### 【实用】简单粗暴 LaTeX（Note-by-LaTeX含各种操作命令pdf）    
+    
+**Note-by-LaTeX GIthub项目网址**❤️❤️❤️     
+🚪 https://github.com/wklchris/Note-by-LaTeX    
+
+**Note-by-LaTeX PDF版本地址**❤️❤️❤️❤️❤️❤️     
+🚪 http://static.latexstudio.net/wp-content/uploads/2017/08/Note-by-LaTeX-cn.pdf
 
 
 
