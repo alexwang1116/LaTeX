@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:3/20/2020 12:38:09 PM)
+# LaTeX 使用技巧 (Last update:4/16/2020 9:54:20 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -238,8 +238,15 @@
 
 
 
+----------
 
+### LaTeX论文格式问题解决方法汇总
 
+**解决 The gutter between columns is x inches wide (on page x), but should be at least 0.2 inches. 问题**     
+🚪 https://www.cnblogs.com/qq952693358/p/8856602.html        
+🚪 https://tex.stackexchange.com/questions/428853/the-gutter-between-columns-is-0-155-inches-wide-on-page-4-but-should-be-at-le     
+
+解决方法是在`\begin{document}`前加上`\columnsep 0.2in`的定义即可。
 
 
 
