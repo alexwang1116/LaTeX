@@ -123,10 +123,11 @@
 
 
 **希腊字母发音对照表及其latex命令**    
-🚪 https://blog.csdn.net/lanchunhui/article/details/49819445   
+🚪 https://blog.csdn.net/lanchunhui/article/details/49819445
+
+   
 
  
-
 
 |----|----|----|
 |小写| 大写 |latex |
