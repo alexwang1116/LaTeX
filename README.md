@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:8/2/2020 9:43:13 AM)
+# LaTeX 使用技巧 (Last update:8/2/2020 9:56:15 AM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -128,32 +128,34 @@
    
 
  
-|小写| 大写 |latex|
-|:----:|:----:|:----:|
+|小写| 大写 |LaTex小写|LaTex大写|
+|:----:|:----:|:----:|:----:|
 | α | A | \alpha|
 |β	|B	|\beta|
-|γ	|Γ	|\gamma|
-|δ	|Δ	|\delta|
+|γ	|Γ	|\gamma|\Gamma|
+|δ	|Δ	|\delta|\Delta|
 |ϵ	|E	|\epsilon|
 |ζ	|Z	|\zeta|
 |ν	|N	|\nu|
-|ξ	|Ξ	|\xi|
+|ξ	|Ξ	|\xi|\Xi|
 |ο	|O	|\omicron|
-|π	|Π	|\pi|
+|π	|Π	|\pi|\Pi|
 |ρ	|P	|\rho|
-|σ	|Σ	|\sigma|
+|σ	|Σ	|\sigma|\Sigma|
 |η	|H	|\eta|
-|θ	|Θ	|\theta|
+|θ	|Θ	|\theta|\Theta|
 |ι	|I	|\iota|
 |κ	|K	|\kappa|
-|λ	|Λ	|\lambda|
+|λ	|Λ	|\lambda|\Lambda|
 |μ	|M	|\mu|
 |τ	|T	|\tau|
-|υ	|Υ	|\upsilon|
-|ϕ	|Φ	|\phi,（φ：\varphi）|
+|υ	|Υ	|\upsilon|\Upsilon|
+|ϕ	|Φ	|\phi,（φ：\varphi）|\Phi|
 |χ	|X	|\chi|
-|ψ	|Ψ	|\psi|
-|ω	|Ω	|\omega|
+|ψ	|Ψ	|\psi|\Psi|
+|ω	|Ω	|\omega|\Omega|
+
+
 
 
 
