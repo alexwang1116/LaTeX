@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:8/2/2020 9:56:15 AM)
+# LaTeX 使用技巧 (Last update:8/4/2020 1:33:18 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -275,6 +275,23 @@
  
 2. 去除注释    
 “Ctrl” + "U"
+
+
+
+
+----------
+
+### LaTeX转Word
+【实用】怎么用Pandoc把Latex转换成MS Word文档    
+🚪 https://www.jianshu.com/p/dc62b915920e     
+
+Latex 转 Word     
+🚪 https://www.jianshu.com/p/ed0713582de2
+
+
+
+
+
 
 
 
