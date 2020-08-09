@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:8/4/2020 1:33:18 PM)
+# LaTeX 使用技巧 (Last update:8/9/2020 10:47:32 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -40,6 +40,13 @@
 显示的效果如下：    
 
 ![](https://upload-images.jianshu.io/upload_images/3478485-6839a37e479fbc69.png?imageMogr2/auto-orient/strip|imageView2/2/w/387)
+
+
+
+【实用】解决LaTex中插入Visio画图有多余边框的问题    
+🚪 https://www.polarxiong.com/archives/%E8%A7%A3%E5%86%B3LaTex%E4%B8%AD%E6%8F%92%E5%85%A5Visio%E7%94%BB%E5%9B%BE%E6%9C%89%E5%A4%9A%E4%BD%99%E8%BE%B9%E6%A1%86%E7%9A%84%E9%97%AE%E9%A2%98.html    
+
+
 
 ----------
 
