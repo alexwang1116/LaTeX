@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:8/15/2020 3:35:35 PM)
+# LaTeX 使用技巧 (Last update:8/22/2020 4:53:30 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -126,6 +126,29 @@
         ^ 数学公式中的上标
         { } 分组的开始和结束
         ~ 用在英文排版中, 表示不可断行的空格
+
+
+
+
+**LaTeX输入带圈数字**    
+🚪 https://www.jianshu.com/p/f9ce0367a1dd    
+
+命令的定义
+   
+    \usepackage{tikz}
+    \newcommand*{\circled}[1]{\lower.7ex\hbox{\tikz\draw (0pt, 0pt)%
+    circle (.5em) node {\makebox[1em][c]{\small #1}};}}
+
+使用示例
+
+    \circled{1} 萤火虫叔叔\\
+    \circled{2} 萤火虫\\
+    \circled{3} 萤\\
+
+效果截图    
+
+![](https://upload-images.jianshu.io/upload_images/8484958-b2be87bada8e4b4f.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
+
 
 
 
