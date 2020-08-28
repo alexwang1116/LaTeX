@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:8/22/2020 4:53:30 PM)
+# LaTeX 使用技巧 (Last update:8/28/2020 8:49:44 AM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -324,12 +324,15 @@
 ----------
 
 ### LaTeX转Word
-【实用】怎么用Pandoc把Latex转换成MS Word文档    
+**【实用】怎么用Pandoc把Latex转换成MS Word文档 **   
 🚪 https://www.jianshu.com/p/dc62b915920e     
 
-Latex 转 Word     
+**Latex 转 Word**  
 🚪 https://www.jianshu.com/p/ed0713582de2
 
+
+Latex 转 Word在线公式编辑器转mathml复制    
+🚪 https://latexlive.com/     
 
 
 
