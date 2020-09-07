@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:8/28/2020 8:49:44 AM)
+# LaTeX 使用技巧 (Last update:9/7/2020 10:40:09 PM)
 📢 Learn to use LaTeX 🔔
 
 
@@ -306,6 +306,18 @@
     
     \end{IEEEbiography}
 
+
+**Latex 作者上角标，通讯作者的小信封标记**
+🚪 https://blog.csdn.net/u010682375/article/details/79732977    
+
+添加方式如下：
+
+    \author{Lily\textsuperscript{1}        \and
+        Alexw\textsuperscript{2}  }
+
+显示为：
+
+![](https://img-blog.csdn.net/20180328195546362?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA2ODIzNzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
 ----------
 
