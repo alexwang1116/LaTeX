@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:9/7/2020 10:49:22 PM)
+# LaTeX 使用技巧 (Last update:9/8/2020 10:38:20 AM)
 📢 Learn to use LaTeX 🔔
 
 ## 目录：
@@ -161,6 +161,13 @@
 效果截图    
 
 ![](https://upload-images.jianshu.io/upload_images/8484958-b2be87bada8e4b4f.png?imageMogr2/auto-orient/strip|imageView2/2/format/webp)
+
+
+
+
+
+**【实用】LaTeX不会写的符号手写自动输出对应命令**         
+🚪 http://detexify.kirelabs.org/classify.html
 
 
 
