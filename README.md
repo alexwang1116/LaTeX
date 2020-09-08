@@ -327,7 +327,7 @@
     \end{IEEEbiography}
 
 
-**Latex 作者上角标，通讯作者的小信封标记**
+**Latex 作者上角标，通讯作者的小信封标记**     
 🚪 https://blog.csdn.net/u010682375/article/details/79732977    
 
 添加方式如下：
