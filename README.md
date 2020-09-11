@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:9/8/2020 10:38:20 AM)
+# LaTeX 使用技巧 (Last update:9/11/2020 10:56:56 PM)
 📢 Learn to use LaTeX 🔔
 
 ## 目录：
@@ -144,7 +144,11 @@
 
 
 **LaTeX输入带圈数字**    
-🚪 https://www.jianshu.com/p/f9ce0367a1dd    
+🚪 https://www.jianshu.com/p/f9ce0367a1dd  
+  
+🚪 https://stone-zeng.github.io/2019-02-09-circled-numbers/  
+
+🚪 https://sikouhjw.gitee.io/2020/03/17/2020-03-17-Circle-around-letter/      
 
 命令的定义
    
