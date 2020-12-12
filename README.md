@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:9/12/2020 6:04:56 PM)
+# LaTeX 使用技巧 (Last update:12/12/2020 2:23:51 PM)
 📢 Learn to use LaTeX 🔔
 
 ## 目录：
@@ -320,6 +320,14 @@
     https://www.etsi.org/technologies/multi-access-edge-computing
 
 
+**【实用biber问题汇总】LaTeX/Bibliographies with biblatex and biber**    
+🚪 https://en.wikibooks.org/wiki/LaTeX/Bibliographies_with_biblatex_and_biber    
+
+
+**【实用biber配置问题汇总】Biblatex with Biber: Configuring my editor to avoid undefined citations**    
+🚪 https://tex.stackexchange.com/questions/154751/biblatex-with-biber-configuring-my-editor-to-avoid-undefined-citations%7C
+
+
 
 **Latex的biography中作者照片的插入**    
 🚪 https://blog.csdn.net/lj695242104/article/details/47946919    
@@ -345,6 +353,10 @@
 
 ![](https://img-blog.csdn.net/20180328195546362?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3UwMTA2ODIzNzU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
 
+
+
+
+
 ----------
 
 
@@ -362,16 +374,28 @@
 ----------
 
 ### <h3 id="7">LaTeX转Word</h3>
-**【实用】怎么用Pandoc把Latex转换成MS Word文档 **   
+**【实用】怎么用Pandoc把Latex转换成MS Word文档**   
 🚪 https://www.jianshu.com/p/dc62b915920e     
 
 **Latex 转 Word**  
 🚪 https://www.jianshu.com/p/ed0713582de2
 
 
-Latex 转 Word在线公式编辑器转mathml复制    
+**Latex转Word在线公式编辑器转mathml复制**    
 🚪 https://latexlive.com/     
 
+
+**Word中使用bib管理参考文献**    
+🚪 http://www.scholat.com/vpost.html?pid=72303   
+
+
+  	
+  	
+   
+  	
+  
+ 	
+ 
 
 
 
