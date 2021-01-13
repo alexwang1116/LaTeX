@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:12/12/2020 2:23:51 PM)
+# LaTeX 使用技巧 (Last update:1/13/2021 3:43:59 PM)
 📢 Learn to use LaTeX 🔔
 
 ## 目录：
@@ -110,6 +110,10 @@
 
 **怎样用LaTeX优雅地打印数学的一切**  
 🚪 https://www.jianshu.com/p/f5d475d6904e
+
+**【实用】手写公式自动转成LaTeX格式或MathML格式** ❤️     
+🚪 https://webdemo.myscript.com/views/math/index.html#     
+
 
 **LaTeX大括号公式和一般括号总结**    
 🚪 https://blog.csdn.net/miao0967020148/article/details/78712811
