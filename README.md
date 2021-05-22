@@ -1,4 +1,4 @@
-# LaTeX 使用技巧 (Last update:1/13/2021 3:43:59 PM)
+# LaTeX 使用技巧 (Last update:5/22/2021 3:53:36 PM)
 📢 Learn to use LaTeX 🔔
 
 ## 目录：
@@ -61,7 +61,13 @@
 
 
 **【实用】在线png/jpeg图片转eps/pdf格式 Convert PNG/JPEG (Raster) to EPS/PDF (Vector) Format**     
-🚪 http://www.tlhiv.org/rast2vec/     
+🚪 http://www.tlhiv.org/rast2vec/    
+
+**【实用】在图片所在的文件夹里利用命令行来将png/jpg等格式图片直接转换为eps格式文件：**
+
+`bmeps -c foo.png foo.eps` 
+
+其中 bmeps 的 -c 选项表示彩色图片。
 
 ----------
 
